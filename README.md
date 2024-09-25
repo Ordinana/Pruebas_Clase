@@ -12,3 +12,4 @@ Muestra la estructura del conjunto de datos (número de filas y columnas).
 
 Presenta una vista previa de los datos para conocer los nombres de las columnas.
 
+![image](https://github.com/user-attachments/assets/19229852-9fed-4fb0-8d35-e9e5e3b0aafa)
